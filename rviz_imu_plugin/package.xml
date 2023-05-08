@@ -12,6 +12,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>qtbase5-dev</build_depend>
+  <build_depend>libqt5-opengl-dev</build_depend>
   <build_depend>roscpp</build_depend>
   <build_depend>rviz</build_depend>
 
